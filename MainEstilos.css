@@ -1,0 +1,28 @@
+/* Imagen de presentación */
+#img2{
+	display: block;
+	margin: auto;
+	max-width: 45%;
+	height: auto;
+	padding: 20px;
+	border-radius: 5px;
+	background-color: #E5E5E5;
+	margin-top: 80px;
+	margin-right: 55px;
+	
+}
+
+/*Pie de página */
+
+footer{
+	margin-top: 100px;
+}
+
+p#text {
+	font-family: 'Times New Roman', sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+	padding: 20px;
+	border-radius: 5px;
+	background-color: #E5E5E5;
+		}
